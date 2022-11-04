@@ -6,7 +6,7 @@
 1. VKR.ipynb - Jupyter Notebook с кодом анализа по указанной теме.
 2. final_model.py - модель глубокой сверточной нейронной сети.
 3. My_voice.wav - записанный голос для проверки модели.
-4. Poyzsnitelnaya_zapiska.dock - пояснительная записка к работе.
+4. Poyzsnitelnaya_zapiska.docx - пояснительная записка к работе.
 5. VKR prezentatation Nekrasov.pptx - презентация.
 
 Также содержится папка с приложением написанным на Flask под названием - prilozhenie/VoiceRecordFlask-master.
